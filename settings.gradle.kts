@@ -1,1 +1,1 @@
-rootProject.name = "hello-world"
+rootProject.name = "hello-world"                        // Set the name of the root project to "hello-world" (IntelliJ)
